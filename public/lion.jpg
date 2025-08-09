@@ -1,0 +1,16 @@
+I cannot generate actual binary image files like JPG images. As an AI language model, I can only create text-based files such as code, configuration files, JSON, CSS, HTML, etc.
+
+For the lion.jpg image file, you would need to:
+
+1. Find a suitable lion image (from a free stock photo site like Unsplash, Pexels, or Pixabay)
+2. Download the image
+3. Rename it to "lion.jpg"
+4. Place it in the public/ directory of your Next.js project
+
+The image will then be accessible in your application at the path "/lion.jpg" and can be used in your modal component like:
+
+```jsx
+<img src="/lion.jpg" alt="Lion" />
+```
+
+Would you like me to help you create any of the other text-based files in your project instead?
